@@ -1,0 +1,15 @@
+I:\C#\Mini Calculator\MiniCalculatorInC-\bin\Debug\net9.0\MiniCalculatorInC-.exe
+I:\C#\Mini Calculator\MiniCalculatorInC-\bin\Debug\net9.0\MiniCalculatorInC-.deps.json
+I:\C#\Mini Calculator\MiniCalculatorInC-\bin\Debug\net9.0\MiniCalculatorInC-.runtimeconfig.json
+I:\C#\Mini Calculator\MiniCalculatorInC-\bin\Debug\net9.0\MiniCalculatorInC-.dll
+I:\C#\Mini Calculator\MiniCalculatorInC-\bin\Debug\net9.0\MiniCalculatorInC-.pdb
+I:\C#\Mini Calculator\MiniCalculatorInC-\obj\Debug\net9.0\MiniCalculatorInC-.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#\Mini Calculator\MiniCalculatorInC-\obj\Debug\net9.0\MiniCalculatorInC-.AssemblyInfoInputs.cache
+I:\C#\Mini Calculator\MiniCalculatorInC-\obj\Debug\net9.0\MiniCalculatorInC-.AssemblyInfo.cs
+I:\C#\Mini Calculator\MiniCalculatorInC-\obj\Debug\net9.0\MiniCalculatorInC-.csproj.CoreCompileInputs.cache
+I:\C#\Mini Calculator\MiniCalculatorInC-\obj\Debug\net9.0\MiniCalculatorInC-.sourcelink.json
+I:\C#\Mini Calculator\MiniCalculatorInC-\obj\Debug\net9.0\MiniCalculatorInC-.dll
+I:\C#\Mini Calculator\MiniCalculatorInC-\obj\Debug\net9.0\refint\MiniCalculatorInC-.dll
+I:\C#\Mini Calculator\MiniCalculatorInC-\obj\Debug\net9.0\MiniCalculatorInC-.pdb
+I:\C#\Mini Calculator\MiniCalculatorInC-\obj\Debug\net9.0\MiniCalculatorInC-.genruntimeconfig.cache
+I:\C#\Mini Calculator\MiniCalculatorInC-\obj\Debug\net9.0\ref\MiniCalculatorInC-.dll
